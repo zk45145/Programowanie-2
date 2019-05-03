@@ -1,0 +1,5 @@
+Kylian;Mbappe;184;Szybki;Silny;Wykonczenie;Drybler;Blyskotliwy;
+Paul;Pogba;188;Silny;Przywodca;Podania;Ambitny;Strzaly;
+Ousmane;Dembele;178;Kreatywny;Nieprzewidywalny;Drybler;Szybki;Dosrodkowania;
+Raphael;Varane;188;Gra glowa;Szybki;Silny;Odbior pilki;Ambitny;
+Antoine;Griezmann;183;Rozgrywanie;Podania;Wspolpraca;Przytrzymanie pilki;Wykonczenie;
