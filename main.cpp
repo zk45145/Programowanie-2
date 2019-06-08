@@ -7,7 +7,7 @@
 #include <istream>
 #include <fstream>
 #include <stdexcept>
-#include "macierze.h"
+#include "macierze.hpp"
 
 int main()
 {
