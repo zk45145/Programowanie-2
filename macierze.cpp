@@ -7,7 +7,7 @@
 #include <istream>
 #include <fstream>
 #include <stdexcept>
-#include "macierze.h"
+#include "macierze.hpp"
 
 Matrix :: Matrix (int x, int y)
 {
@@ -106,11 +106,8 @@ Matrix :: Matrix(std::string file_name)
 {
     std::ifstream file;
     std::string line;
-
     std::string temp="";
     double value;
-    std::vector<std::vector<double> > temp_vrows;
-    std::vector<double> temp_vcolumns;
 
     file.open(file_name.c_str(), std::ios::in);
         if(!file)

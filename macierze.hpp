@@ -10,10 +10,10 @@ class Matrix
 {
     private:
     int i, j;
-    std::vector <std::vector<double> > vrows;
-    std::vector <double> vcolumns;
 
     public:
+    std::vector <std::vector<double> > vrows;
+    std::vector <double> vcolumns;
     Matrix (){};
     Matrix (int x, int y);
     Matrix (std::string);
